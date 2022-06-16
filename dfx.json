@@ -1,0 +1,15 @@
+{
+    "canisters": {
+      "logger": {
+        "main": "MyLogger.mo",
+        "type": "motoko"
+      }
+    },
+    "defaults": {
+      "build": {
+        "args": "",
+        "packtool": "vessel sources"
+      }
+    }
+  }
+  
